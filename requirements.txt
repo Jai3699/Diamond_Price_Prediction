@@ -5,3 +5,5 @@ flask
 
 
 -e .
+
+scikit-learn
